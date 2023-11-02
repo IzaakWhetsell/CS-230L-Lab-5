@@ -2,6 +2,9 @@
 function Card() {
     return (
         <div class="card-deck" >
+            <div>
+                <h1>Card Components</h1>
+            </div>
         <div class="row">
             <div class="col-sm card text-white bg-primary mx-3" >
                 <div class="card-body">
